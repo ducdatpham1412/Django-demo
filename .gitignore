@@ -1,0 +1,7 @@
+data/mongo/
+data/mysql/
+.vscode/*
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/migrations/
+__pycache__
